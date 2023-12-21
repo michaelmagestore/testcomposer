@@ -1,0 +1,9 @@
+{
+    "name": "magestore/all-metapackage",
+    "version": "1.2.0-dev",
+    "description": "Metapackage with Magento Inventory modules for simple installation",
+    "type": "metapackage",
+    "require": {
+        "magestore/test-composer": "*"
+    }
+}
