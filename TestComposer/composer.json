@@ -1,5 +1,5 @@
 {
-    "name": "magestore/test-composer",
+    "name": "michaelmagestore/test-composer",
     "description": "Magento 2 Module by Vendor",
     "type": "magento2-module",
     "version": "1.0.0",
